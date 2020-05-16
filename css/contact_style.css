@@ -41,6 +41,7 @@ input[type=submit] { /* styling submit button */
 	border: none;
 	border-radius: 4px;
 	cursor: pointer;
+	margin-top: 15px;
 }
 
 input[type=submit]:hover{
