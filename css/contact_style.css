@@ -20,6 +20,7 @@ input[type=text], select, textarea{ /* styling input fields and textarea */
  	box-sizing: border-box; /* include padding and border in width and height */
   	resize: vertical /* Allow resizing the textarea only vertical*/
 }
+
 select{ /* styling drop doen menu */
 	color: #C65252;
 }
@@ -27,9 +28,9 @@ select{ /* styling drop doen menu */
 label[for=male]{
 	margin-left: 20px; /* pushing radiobuttons right */
 }
+
 input[type=radio]{
 	margin-right: 20px; /* horizpntal space between radiobuttons */
-
 }
 
 input[type=submit] { /* styling submit button */
